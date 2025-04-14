@@ -12,7 +12,7 @@ Tout autre dépendance spécifique au projet
 Installation
 
 Clonez le dépôt sur votre machine locale
-git clone [url-du-dépôt]
+git clone [(https://github.com/Jubist/DesktopAppC-)]
 
 Ouvrez la solution Project C#.sln dans Visual Studio
 Restaurez les packages NuGet si nécessaire
